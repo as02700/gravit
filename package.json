@@ -5,7 +5,8 @@
     "version": "0.3.1",
     "private": true,
     "scripts": {
-        "bower": "bower"
+        "bower": "bower",
+        "grunt": "grunt"
     },
     "___": {
         "grunt-mocha": "~0.4.0"
